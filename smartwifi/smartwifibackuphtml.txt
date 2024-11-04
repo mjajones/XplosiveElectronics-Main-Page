@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Smart Home</title>
+    <link rel="stylesheet" href="../style.css"> </head>
+<body>
+
+  <a href="../index.html"> 
+    <button>Home</button>
+  </a>
+
+  <div class="product-grid">
+
+    <div class="product">
+        <img src="shpics/amazonechohub.jpg" alt="Amazon Echo Hub Smart Home with Alexa">
+        <div class="description">Amazon Echo Hub Smart Home with Alexa</div>
+        <div class="price">$144.99</div>
+    </div>
+
+    <div class="product">
+        <img src="shpics/amazonechodot.jpg" alt="Amazon Echo Dot">
+        <div class="description">Amazon Echo Dot</div>
+        <div class="price">$29.99</div>
+    </div>
+
+    <div class="product">
+        <img src="shpics/echoshow15.jpg" alt="Amazon Echo Show 15 Smart Display with Alexa">
+        <div class="description">Amazon Echo Show 15 Smart Display with Alexa</div>
+        <div class="price">$279.99</div>
+    </div>
+
+    <div class="product">
+        <img src="shpics/nesthubmax.jpg" alt="Nest Hub Max Smart Display">
+        <div class="description">Nest Hub Max Smart Display</div>
+        <div class="price">$229.99</div>
+    </div>
+
+    <div class="product">
+        <img src="shpics/applehomepod.jpg" alt="Apple Homepod Smart Speaker with Siri">
+        <div class="description">Apple Homepod Smart Speaker with Siri</div>
+        <div class="price">$299.99</div>
+    </div>
+
+    <div class="product">
+        <img src="shpics/googlenest.jpg" alt="Google Nest Audio Smart Speaker">
+        <div class="description">Google Nest Audio Smart Speaker</div>
+        <div class="price">$99.99</div>
+    </div>
+
+    <div class="product">
+        <img src="shpics/eufysecurity.jpg" alt="Eufy Security E340 Video Doorbell">
+        <div class="description">Eufy Security E340 Video Doorbell</div>
+        <div class="price">$139.99</div>
+    </div>
+
+    <div class="product">
+        <img src="shpics/ring2pack.jpg" alt="Ring 2 Pack Stick Up Indoor/Oudoor Camera">
+        <div class="description">Ring 2 Pack Stick Up Indoor/Oudoor Camera</div>
+        <div class="price">$139.98</div>
+    </div>
+
+    <div class="product">
+        <img src="shpics/tplinktapo.jpg" alt="TP Link Tapo Wired Floodlight Wi-Fi Security Camera">
+        <div class="description">TP Link Tapo Wired Floodlight Wi-Fi Security Camera</div>
+        <div class="price">$129.99</div>
+    </div>
+
+    <div class="product">
+        <img src="shpics/arlooutdoor.jpg" alt="Arlo Outdoor Camera">
+        <div class="description">Arlo Outdoor Camera</div>
+        <div class="price">$49.99</div>
+    </div>
+
+    <div class="product">
+        <img src="shpics/emersonsensi.jpg" alt="Emerson Sensi Touch 2 Smart Thermostat">
+        <div class="description">Emerson Sensi Touch 2 Smart Thermostat</div>
+        <div class="price">$180.99</div>
+    </div>
+
+    <div class="product">
+        <img src="shpics/ecobeesmart.jpg" alt="Ecobee Smart Thermostat">
+        <div class="description">Ecobee Smart Thermostat</div>
+        <div class="price">$219.99</div>
+    </div>
+
+    <div class="product">
+        <img src="shpics/googlenestthermostat.jpg" alt="Google Nest Learning Thermostat">
+        <div class="description">Google Nest Learning Thermostat</div>
+        <div class="price">$279.99</div>
+    </div>
+
+    <div class="product">
+        <img src="shpics/honeywellsmart.jpg" alt="Honeywell Smart Thermostat">
+        <div class="description">Honeywell Smart Thermostat</div>
+        <div class="price">$179.99</div>
+    </div>
+
+    <div class="product">
+        <img src="shpics/phillipsa19.jpg" alt="Phillips Hue A19 60W Smart LED Starter Kit">
+        <div class="description">Phillips Hue A19 60W Smart LED Starter Kit</div>
+        <div class="price">$109.99</div>
+    </div>
+
+    <div class="product">
+        <img src="shpics/phillipslightstrip.jpg" alt="Philips Hue Bluetooth Lightstrip">
+        <div class="description">Philips Hue Bluetooth Lightstrip</div>
+        <div class="price">$69.99</div>
+    </div>
+
+    <div class="product">
+        <img src="shpics/tplinktapoa19.jpg" alt="TP-Link Tapo A19 Smart Wi-Fi LED Bulb (5-Pack)">
+        <div class="description">TP-Link Tapo A19 Smart Wi-Fi LED Bulb (5-Pack)</div>
+        <div class="price">$59.99</div>
+    </div>
+
+</div> 
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Wi-Fi Routers</title>
+    <link rel="stylesheet" href="../style.css"> </head>
+<body>
+
+  <a href="../index.html"> 
+    <button>Home</button>
+  </a>
+
+  <div class="product-grid">
+
+    <div class="product">
+        <img src="wifi/netgearorbi.jpg" alt="NETGEAR Orbi 850 Series AX 6000 Wi-Fi 6 System (3 Pack)">
+        <div class="description">NETGEAR Orbi 850 Series AX 6000 Wi-Fi 6 System (3 Pack)</div>
+        <div class="price">$699.99</div>
+    </div>
+
+    <div class="product">
+        <img src="wifi/tplinkarcher.jpg" alt="TP-Link Archer AX20 AX1800 Dual Band Wi-Fi 6 Router">
+        <div class="description">TP-Link Archer AX20 AX1800 Dual Band Wi-Fi 6 Router</div>
+        <div class="price">$79.99</div>
+    </div>
+
+    <div class="product">
+        <img src="wifi/asusax3000.jpg" alt="Asus AX3000 Dual Band Wi-Fi 6 Wireless Router">
+        <div class="description">Asus AX3000 Dual Band Wi-Fi 6 Wireless Router</div>
+        <div class="price">$129.99</div>
+    </div>
+
+    <div class="product">
+        <img src="wifi/tplinkarcher7800.jpg" alt="TP-Link Archer AXE7800 Tri-Band Wi-Fe 6E Router">
+        <div class="description">TP-Link Archer AXE7800 Tri-Band Wi-Fe 6E Router</div>
+        <div class="price">$199.99</div>
+    </div>
+
+    <div class="product">
+        <img src="wifi/eero6.jpg" alt="eero 6 AX1800 Dual-Band Mesh Wi-Fi 6 Router - White">
+        <div class="description">eero 6 AX1800 Dual-Band Mesh Wi-Fi 6 Router - White</div>
+        <div class="price">$69.99</div>
+    </div>
+
+    <div class="product">
+        <img src="wifi/asusrog.jpg" alt="ASUS - ROG Rapture GT-AX11000 Pro Tri-band WiFi 6 Gaming Router">
+        <div class="description">ASUS - ROG Rapture GT-AX11000 Pro Tri-band WiFi 6 Gaming Router, 2.5G Port - Black</div>
+        <div class="price">$327.99</div>
+    </div>
+
+    <div class="product">
+        <img src="wifi/netgearnighthawk.jpg" alt="NETGEAR - Nighthawk AXE7800 Tri-Band Wi-Fi Router - Black">
+        <div class="description">NETGEAR - Nighthawk AXE7800 Tri-Band Wi-Fi Router - Black</div>
+        <div class="price">$299.99</div>
+    </div>
+
+    <div class="product">
+        <img src="wifi/asusrt.jpg" alt="ASUS - RT-AX82U AX5400 Dual-Band WiFi 6 Router - Black">
+        <div class="description">ASUS - RT-AX82U AX5400 Dual-Band WiFi 6 Router - Black</div>
+        <div class="price">$199.99</div>
+    </div>
+
+    <div class="product">
+        <img src="wifi/asusax5400.jpg" alt="ASUS AX5400 Dual Band WiFi 6 Router">
+        <div class="description">ASUS AX5400 Dual Band WiFi 6 Router</div>
+        <div class="price">$199.99</div>
+    </div>
+
+    <div class="product">
+        <img src="wifi/linksysmaxstream.jpg" alt="Linksys Max Stream AX1800 Dual Band Mesh Wi-Fi 6 Router">
+        <div class="description">Linksys Max Stream AX1800 Dual Band Mesh Wi-Fi 6 Router</div>
+        <div class="price">$139.99</div>
+    </div>
+
+    <div class="product">
+        <img src="wifi/netgearwifi7.jpg" alt="Netgear Wi-Fi 7 Router Nighthawk BE9300 Tri-Band Router">
+        <div class="description">Netgear Wi-Fi 7 Router Nighthawk BE9300 Tri-Band Router</div>
+        <div class="price">$329.99</div>
+    </div>
+
+</div> 
+
+</body>
+</html>

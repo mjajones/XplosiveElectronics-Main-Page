@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>DSLR Cameras</title>
+    <link rel="stylesheet" href="../style.css"> </head>
+<body>
+
+  <a href="../index.html"> 
+    <button>Home</button>
+  </a>
+
+  <div class="product-grid">
+
+    <div class="product">
+        <img src="dslr/panasoniclumix.jpg" alt="Panasonic Lumix 18.1MP 4k Camera">
+        <div class="description">Panasonic Lumix 18.1MP 4k Camera</div>
+        <div class="price">$479.99</div>
+    </div>
+
+    <div class="product">
+        <img src="dslr/canoneosrebel.jpg" alt="Canon EOS Rebel T7 DSLR Video">
+        <div class="description">Canon EOS Rebel T7 DSLR Video</div>
+        <div class="price">$599.99</div>
+    </div>
+
+    <div class="product">
+        <img src="dslr/nikond7500.jpg" alt="Nikon D7500 DSLR 4K Video Camera">
+        <div class="description">Nikon D7500 DSLR 4K Video Camera with AF-S DX NIKKOR 18-140mm f/3.5-5.6G ED VR lens - Black</div>
+        <div class="price">$1,199.99</div>
+    </div>
+
+    <div class="product">
+        <img src="dslr/kodakpixpro.jpg" alt="Kodak - PIXPRO AZ425-BK - Black">
+        <div class="description">Kodak - PIXPRO AZ425-BK - Black</div>
+        <div class="price">$188.99</div>
+    </div>
+
+    <div class="product">
+        <img src="dslr/canoneos5d.jpg" alt="Canon - EOS 5D Mark IV DSLR Camera with 24-105mm f/4L IS II USM Lens">
+        <div class="description">Canon - EOS 5D Mark IV DSLR Camera with 24-105mm f/4L IS II USM Lens - Black</div>
+        <div class="price">$3,099.00</div>
+    </div>
+
+    <div class="product">
+        <img src="dslr/nikond8504k.jpg" alt="Nikon D850 DSLR 4k Video Camera (Body Only)">
+        <div class="description">Nikon D850 DSLR 4k Video Camera (Body Only) - Black</div>
+        <div class="price">$2,499.99</div>
+    </div>
+
+    <div class="product">
+        <img src="dslr/panasoniclumixfz80d.jpg" alt="Panasonic - LUMIX FZ80D 18.1 Megapixels 4K Photo Point and Shoot Digital Camera with 60X Zoom Lens">
+        <div class="description">Panasonic - LUMIX FZ80D 18.1 Megapixels 4K Photo Point and Shoot Digital Camera with 60X Zoom Lens - Black</div>
+        <div class="price">$479.99</div>
+    </div>
+
+    <div class="product">
+        <img src="dslr/canoneos90d.jpg" alt="Canon EOS 90D DSLR Camera">
+        <div class="description">Canon EOS 90D DSLR Camera</div>
+        <div class="price">$1,199.99</div>
+    </div>
+
+    <div class="product">
+        <img src="dslr/nikond7500.jpg" alt="Nikon D7500 Camera">
+        <div class="description">Nikon D7500 Camera</div>
+        <div class="price">$899.99</div>
+    </div>
+
+</div> 
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Mirrorless Cameras</title>
+    <link rel="stylesheet" href="../style.css"> 
+</head>
+<body>
+
+  <a href="../index.html"> 
+    <button>Home</button>
+  </a>
+
+  <div class="product-grid">
+    <div class="product">
+        <img src="mirroless/sonyalpha.jpg" alt="Sony Alpha a7 Mirrorless">
+        <div class="description">Sony Alpha a7 Mirrorless</div>
+        <div class="price">$1,699.99</div>
+    </div>
+
+    <div class="product">
+        <img src="mirroless/canoneosr100.jpg" alt="Canon - EOS R100 4K Video Mirrorless Camera Special Edition 2 Lens Kit with RF-S 18-45mm and RF-S 55-210mm Lenses - Black">
+        <div class="description">Canon - EOS R100 4K Video Mirrorless Camera Special Edition 2 Lens Kit with RF-S 18-45mm and RF-S 55-210mm Lenses - Black</div>
+        <div class="price">$829.99</div>
+    </div>
+
+    <div class="product">
+        <img src="mirroless/panasoniclumixg7.jpg" alt="Panasonic - LUMIX G7 Mirrorless 4K Photo Digital Camera Body with 14-42mm f3.5-5.6 II Lens - DMC-G7KK - Black">
+        <div class="description">Panasonic - LUMIX G7 Mirrorless 4K Photo Digital Camera Body with 14-42mm f3.5-5.6 II Lens - DMC-G7KK - Black</div>
+        <div class="price">$549.99</div>
+    </div>
+
+    <div class="product">
+        <img src="mirroless/sonyalpha6100.jpg" alt="Sony - Alpha 6100 Mirrorless Camera 2-Lens Kit with E PZ 16-50mm and E 55-210mm Lenses - Black">
+        <div class="description">Sony - Alpha 6100 Mirrorless Camera 2-Lens Kit with E PZ 16-50mm and E 55-210mm Lenses - Black</div>
+        <div class="price">$1,099.99</div>
+    </div>
+
+    <div class="product">
+        <img src="mirroless/nikonz50mirrorless.jpg" alt="Nikon - Z50 Mirrorless 4K Video Camera with NIKKOR Z DX 16-50mm f/3.5-6.3 VR Lens - Black">
+        <div class="description">Nikon - Z50 Mirrorless 4K Video Camera with NIKKOR Z DX 16-50mm f/3.5-6.3 VR Lens - Black</div>
+        <div class="price">$999.99</div>
+    </div>
+
+    <div class="product">
+        <img src="mirroless/canoneosr6.jpg" alt="Canon EOS R6 Mark II Mirrorless">
+        <div class="description">Canon EOS R6 Mark II Mirrorless</div>
+        <div class="price">$1,999.99</div>
+    </div>
+
+    <div class="product">
+        <img src="mirroless/panasoniclumixg85.jpg" alt="Panasonic - LUMIX G85 Mirrorless 4K Photo Digital Camera Body with 12-60mm Lens, DMC-G85MK - Black">
+        <div class="description">Panasonic - LUMIX G85 Mirrorless 4K Photo Digital Camera Body with 12-60mm Lens, DMC-G85MK - Black</div>
+        <div class="price">$699.99</div>
+    </div>
+
+    <div class="product">
+        <img src="mirroless/olympusmarkii.jpg" alt="Olympus - OM SYSTEM OM-1 Mark II 4K Video Mirrorless Camera with Lens - Black">
+        <div class="description">Olympus - OM SYSTEM OM-1 Mark II 4K Video Mirrorless Camera with Lens - Black</div>
+        <div class="price">$2,842.99</div>
+    </div>
+
+    <div class="product">
+        <img src="mirroless/panasonics9.jpg" alt="Panasonic Lumix S9 Mirrorless">
+        <div class="description">Panasonic Lumix S9 Mirrorless</div>
+        <div class="price">$1,799.99</div>
+    </div>
+
+</div> 
+
+</body>
+</html>

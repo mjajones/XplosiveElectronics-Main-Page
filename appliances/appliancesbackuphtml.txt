@@ -1,0 +1,323 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Dishwashers</title>
+    <link rel="stylesheet" href="../style.css"> </head>
+<body>
+
+  <a href="../index.html"> 
+    <button>Home</button>
+  </a>
+
+  <div class="product-grid">
+
+    <div class="product">
+        <img src="dishwasherpics/samsung dishwasher.jpg" alt="Samsung Dishwasher 440 Series">
+        <div class="description">Samsung Dishwasher 440 Series</div>
+        <div class="price">$399.99</div>
+    </div>
+
+    <div class="product">
+        <img src="dishwasherpics/bosch.jpg" alt="Bosch 550 Series Smart Control Dishwasher">
+        <div class="description">Bosch 550 Series Smart Control Dishwasher</div>
+        <div class="price">$1,169.99</div>
+    </div>
+
+    <div class="product">
+        <img src="dishwasherpics/LG dishwasher.jpg" alt="LG Dishwasher">
+        <div class="description">LG Dishwasher</div>
+        <div class="price">$599.99</div>
+    </div>
+
+    <div class="product">
+        <img src="dishwasherpics/bosch 300 series.jpg" alt="Bosch 300 series smart control">
+        <div class="description">Bosch 300 series smart control</div>
+        <div class="price">$899.99</div>
+    </div>
+
+    <div class="product">
+        <img src="dishwasherpics/kitchenaid.jpg" alt="Kitchenaid Top Control Dishwasher">
+        <div class="description">Kitchenaid Top Control Dishwasher</div>
+        <div class="price">$999.99</div>
+    </div>
+
+    <div class="product">
+        <img src="dishwasherpics/GE fingerprint.jpg" alt="GE Top control fingerprint resistant dishwasher">
+        <div class="description">GE Top control fingerprint resistant dishwasher</div>
+        <div class="price">$549.99</div>
+    </div>
+
+    <div class="product">
+        <img src="dishwasherpics/Frigidaire.jpg" alt="Frigidaire Front Control MaxDry Dishwasher">
+        <div class="description">Frigidaire Front Control MaxDry Dishwasher</div>
+        <div class="price">$379.99</div>
+    </div>
+
+    <div class="product">
+        <img src="dishwasherpics/samsungautorelease.jpg" alt="Samsung-AutoRelease Dry Smart Built-In Stainless Steel Tub Dishwasher with 3rd Rack, StormWash+, 42 dBA - Black Stainless Steel">
+        <div class="description">Samsung-AutoRelease Dry Smart Built-In Stainless Steel Tub Dishwasher with 3rd Rack, StormWash+, 42 dBA - Black Stainless Steel</div>
+        <div class="price">$649.99</div>
+    </div>
+
+    <div class="product">
+        <img src="dishwasherpics/maytag24.jpg" alt="Maytag-24 Front Control Built-In Dishwasher with Stainless Steel Tub, Dual Power Filtration, 50 dBA - Stainless Steel">
+        <div class="description">Maytag-24" Front Control Built-In Dishwasher with Stainless Steel Tub, Dual Power Filtration, 50 dBA - Stainless Steel</div>
+        <div class="price">$539.99</div>
+    </div>
+
+</div> 
+
+</body>
+</html>
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Microwaves</title>
+    <link rel="stylesheet" href="../style.css"> </head>
+<body>
+
+  <a href="../index.html"> 
+    <button>Home</button>
+  </a>
+
+  <div class="product-grid">
+
+    <div class="product">
+        <img src="microwavepics/ge16.jpg" alt="GE 1.6 Cu. Ft. Over-the-Range Microwave">
+        <div class="description">GE - 1.6 Cu. Ft. Over-the-Range Microwave - Stainless Steel</div>
+        <div class="price">$219.99</div>
+    </div>
+
+    <div class="product">
+        <img src="microwavepics/lg15.jpg" alt="LG 1.5 Cu. Ft. Countertop Microwave">
+        <div class="description">LG - 1.5 Cu. Ft. Countertop Microwave with Sensor Cooking and Smart Inverter - Stainless Steel</div>
+        <div class="price">$179.99</div>
+    </div>
+
+    <div class="product">
+        <img src="microwavepics/whirlpool17.jpg" alt="Whirlpool 1.7 Cu. Ft. Over-the-Range Microwave">
+        <div class="description">Whirlpool - 1.7 Cu. Ft. Over-the-Range Microwave - Stainless Steel</div>
+        <div class="price">$209.99</div>
+    </div>
+
+    <div class="product">
+        <img src="microwavepics/lg20.jpg" alt="LG 2.0 Cu. Ft. Over-the-Range Microwave">
+        <div class="description">LG - 2.0 Cu. Ft. Over-the-Range Microwave with Sensor Cooking and EasyClean - Stainless Steel</div>
+        <div class="price">$459.99</div>
+    </div>
+
+    <div class="product">
+        <img src="microwavepics/geprofile.jpg" alt="GE Profile 2.2 Cu. Ft. Built-In Microwave">
+        <div class="description">GE Profile - 2.2 Cu. Ft. Built-In Microwave - Black on Black</div>
+        <div class="price">$289.99</div>
+    </div>
+
+    <div class="product">
+        <img src="microwavepics/insignia11.jpg" alt="Insignia 1.1 Cu. Ft. Countertop Microwave">
+        <div class="description">Insignia™ - 1.1 Cu. Ft. Countertop Microwave - Black</div>
+        <div class="price">$109.99</div>
+    </div>
+
+    <div class="product">
+        <img src="microwavepics/frigidairegallery.jpg" alt="Frigidaire Gallery 1.9 Cu. Ft. Over-The-Range Microwave">
+        <div class="description">Frigidaire - Gallery 1.9 Cu. Ft. Over-The-Range Microwave with Sensor Cook - Stainless Steel</div>
+        <div class="price">$399.99</div>
+    </div>
+
+    <div class="product">
+        <img src="microwavepics/panasonic12.jpg" alt="Panasonic 1.2 Cu. Ft. 1000 Watt HomeCHEF 4-in-1 Multioven Microwave">
+        <div class="description">Panasonic - 1.2 Cu. Ft. 1000 Watt HomeCHEF CD87KS 4-in-1 Multioven Microwave - Airfryer, Broiler, Convection, Inverter - Silver</div>
+        <div class="price">$499.99</div>
+    </div>
+
+    <div class="product">
+        <img src="microwavepics/samsungbesoke.jpg" alt="Samsung Bespoke 2.1 Cu. Ft. Over-the-Range Microwave">
+        <div class="description">Samsung - Bespoke 2.1 Cu. Ft. Over-the-Range Microwave with Sensor Cooking and Auto Dimming Glass Touch Controls - Stainless Steel</div>
+        <div class="price">$521.99</div>
+    </div>
+
+</div> 
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Ovens</title>
+    <link rel="stylesheet" href="../style.css"> </head>
+<body>
+
+  <a href="../index.html"> 
+    <button>Home</button>
+  </a>
+
+  <div class="product-grid">
+
+    <div class="product">
+        <img src="ovenpics/samsung_bespoke.jpg" alt="Samsung Bespoke 6.3 Cu Ft Electric">
+        <div class="description">Samsung Bespoke 6.3 Cu Ft Electric</div>
+        <div class="price">$799.99</div>
+    </div>
+
+    <div class="product">
+        <img src="ovenpics/whirlpoolgas.jpg" alt="Whirlpool Gas Range with Drawer">
+        <div class="description">Whirlpool Gas Range with Drawer</div>
+        <div class="price">$599.99</div>
+    </div>
+
+    <div class="product">
+        <img src="ovenpics/LG63.jpg" alt="LG 6.3 Cu Ft Smart Electric Range">
+        <div class="description">LG 6.3 Cu Ft Smart Electric Range</div>
+        <div class="price">$799.99</div>
+    </div>
+
+    <div class="product">
+        <img src="ovenpics/samsung_duo.jpg" alt="Samsung 6 Cu Ft Smart Duo Gas Range">
+        <div class="description">Samsung 6 Cu Ft Smart Duo Gas Range</div>
+        <div class="price">$1,099.99</div>
+    </div>
+
+    <div class="product">
+        <img src="ovenpics/lg73.jpg" alt="LG 7.3 Cu Ft Double Oven Electric True Convection Range">
+        <div class="description">LG 7.3 Cu Ft Double Oven Electric True Convection Range</div>
+        <div class="price">$1,399.99</div>
+    </div>
+
+    <div class="product">
+        <img src="ovenpics/samsung30wifi.jpg" alt="Samsung - 30 Built-In Single Wall Oven with WiFi - Stainless Steel">
+        <div class="description">Samsung - 30" Built-In Single Wall Oven with WiFi - Stainless Steel</div>
+        <div class="price">$1,299.99</div>
+    </div>
+
+    <div class="product">
+        <img src="ovenpics/samsung_duo.jpg" alt="Samsung - 6.3 cu. ft. Smart Freestanding Electric Range with Flex Duo, No-Preheat Air Fry & Griddle - Black Stainless Steel">
+        <div class="description">Samsung - 6.3 cu. ft. Smart Freestanding Electric Range with Flex Duo, No-Preheat Air Fry & Griddle - Black Stainless Steel</div>
+        <div class="price">$1,484.99</div>
+    </div>
+
+    <div class="product">
+        <img src="ovenpics/samsung30wifi.jpg" alt="Samsung - 30 Built-In Double Wall Oven with WiFi - Stainless Steel">
+        <div class="description">Samsung - 30" Built-In Double Wall Oven with WiFi - Stainless Steel</div>
+        <div class="price">$1,899.99</div>
+    </div>
+
+    <div class="product">
+        <img src="ovenpics/GE30.jpg" alt="GE - 30 Built-In Single Electric Wall Oven - Stainless Steel">
+        <div class="description">GE - 30" Built-In Single Electric Wall Oven - Stainless Steel</div>
+        <div class="price">$1,199.99</div>
+    </div>
+
+    <div class="product">
+        <img src="ovenpics/whirlpool53.jpg" alt="Whirlpool - 5.3 Cu. Ft. Freestanding Electric Range with Cooktop Flexibility - Stainless Steel">
+        <div class="description">Whirlpool - 5.3 Cu. Ft. Freestanding Electric Range with Cooktop Flexibility - Stainless Steel</div>
+        <div class="price">$679.99</div>
+    </div>
+
+</div> 
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Refrigerators</title>
+    <link rel="stylesheet" href="../style.css"> </head>
+<body>
+
+  <a href="../index.html"> 
+    <button>Home</button>
+  </a>
+
+  <div class="product-grid">
+
+    <div class="product">
+        <img src="fridgepics/lgtop.jpg" alt="LG top freezer">
+        <div class="description">LG top freezer</div>
+        <div class="price">$699.99</div>
+    </div>
+
+    <div class="product">
+        <img src="fridgepics/whirlpoolsideby.jpg" alt="Whirlpool side by side">
+        <div class="description">Whirlpool side by side</div>
+        <div class="price">$1,299.00</div>
+    </div>
+
+    <div class="product">
+        <img src="fridgepics/insigniabottom.jpg" alt="Insignia bottom freezer">
+        <div class="description">Insignia bottom freezer</div>
+        <div class="price">$679.99</div>
+    </div>
+
+    <div class="product">
+        <img src="fridgepics/lgcounter.jpg" alt="LG Counter Depth Max">
+        <div class="description">LG Counter Depth Max</div>
+        <div class="price">$1,399.99</div>
+    </div>
+
+    <div class="product">
+        <img src="fridgepics/samsung267.jpg" alt="Samsung - 26.7 cu. ft. Side-by-Side Smart Refrigerator with 21.5 Touch-Screen Family Hub - Stainless Steel">
+        <div class="description">Samsung - 26.7 cu. ft. Side-by-Side Smart Refrigerator with 21.5" Touch-Screen Family Hub - Stainless Steel</div>
+        <div class="price">$2,099.00</div>
+    </div>
+
+    <div class="product">
+        <img src="fridgepics/samsungfrenchdoor.jpg" alt="Samsung-31 cu. ft. 3-Door French Door Smart Refrigerator with Four Types of Ice-Stainless Steel">
+        <div class="description">Samsung-31 cu. ft. 3-Door French Door Smart Refrigerator with Four Types of Ice-Stainless Steel</div>
+        <div class="price">$1,899.99</div>
+    </div>
+
+    <div class="product">
+        <img src="fridgepics/samsung30cu.jpg" alt="Samsung-30 cu. ft. 3-Door French Door Smart Refrigerator with Family Hub - Stainless Steel">
+        <div class="description">Samsung-30 cu. ft. 3-Door French Door Smart Refrigerator with Family Hub - Stainless Steel</div>
+        <div class="price">$3,149.99</div>
+    </div>
+
+    <div class="product">
+        <img src="fridgepics/whirlpooltopwhite.jpg" alt="Whirlpool-20.5 Cu. Ft. Top-Freezer Refrigerator - White">
+        <div class="description">Whirlpool-20.5 Cu. Ft. Top-Freezer Refrigerator - White</div>
+        <div class="price">$739.99</div>
+    </div>
+
+    <div class="product">
+        <img src="fridgepics/samsungbespoke.jpg" alt="Samsung - BESPOKE 29 cu. ft. 4-Door French Door Smart Refrigerator with Family Hub-Matte Black Steel">
+        <div class="description">Samsung - BESPOKE 29 cu. ft. 4-Door French Door Smart Refrigerator with Family Hub-Matte Black Steel</div>
+        <div class="price">$3,779.99</div>
+    </div>
+
+</div> 
+
+</body>
+</html>

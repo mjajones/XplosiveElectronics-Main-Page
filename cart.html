@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Cart</title>
+
+    <link rel="stylesheet" href="cart.css">
+</head>
+<body>
+    <h1>Your Cart</h1>
+    <div id="cart-items"></div>
+    <div id="total-price"></div>
+    <div id="total-with-tax"></div>
+    
+    <a href="/index.html" class="back-button">Back to Home</a>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            const cartItemsContainer = document.getElementById('cart-items');
+            const totalPriceContainer = document.getElementById('total-price');
+            const totalWithTaxContainer = document.getElementById('total-with-tax');
+            let cart = JSON.parse(localStorage.getItem('cart')) || [];
+            let totalPrice = 0;
+
+            // render cart
+            function renderCart() {
+                cartItemsContainer.innerHTML = '';
+                totalPrice = 0;
+                if (cart.length > 0) {
+                    cart.forEach(productId => {
+                        fetch(`/api/products/${productId}`)
+                            .then(response => response.json())
+                            .then(product => {
+                                // Render each product in the cart
+                                const productElement = document.createElement('div');
+                                productElement.classList.add('cart-item');
+                                productElement.innerHTML = `
+                                    <img src="${product.Image_URL}" alt="${product.Name}">
+                                    <div class="cart-details">
+                                        <h3>${product.Name}</h3>
+                                        <p>Price: $${product.Price}</p>
+                                    </div>
+                                    <button class="remove-button" data-id="${productId}">Remove</button>
+                                `;
+                                cartItemsContainer.appendChild(productElement);
+
+                                // Add product price to total price
+                                totalPrice += parseFloat(product.Price);
+
+                                // Update the total price
+                                totalPriceContainer.innerHTML = `Total Price: $${totalPrice.toFixed(2)}`;
+
+                                // Apply 7% tax and display the total with tax
+                                const totalWithTax = totalPrice * 1.07;
+                                totalWithTaxContainer.innerHTML = `Total with 7% Tax: $${totalWithTax.toFixed(2)}`;
+                            });
+                    });
+                } else {
+                    cartItemsContainer.innerHTML = '<p>Your cart is empty.</p>';
+                    totalPriceContainer.innerHTML = '';
+                    totalWithTaxContainer.innerHTML = '';
+                }
+            }
+
+            // Function to remove item from the cart
+            function removeFromCart(productId) {
+                cart = cart.filter(id => id !== productId);
+                localStorage.setItem('cart', JSON.stringify(cart));
+                renderCart();
+            }
+
+            // Listen for remove button clicks
+            cartItemsContainer.addEventListener('click', function (e) {
+                if (e.target.classList.contains('remove-button')) {
+                    const productId = e.target.getAttribute('data-id');
+                    removeFromCart(productId);
+                }
+            });
+
+            
+            renderCart();
+        });
+    </script>
+
+<form id="order-form">
+    <h2>Billing Address</h2>
+    <label for="billingName">Name:</label>
+    <input type="text" id="billingName" name="billingName" placeholder="Enter full name" required>
+
+    <label for="billingAddress">Address:</label>
+    <input type="text" id="billingAddress" name="billingAddress" placeholder="Enter address" required>
+
+    <label for="billingPhone">Phone:</label>
+    <input type="text" id="billingPhone" name="billingPhone" placeholder="Enter phone number" required>
+
+    <label for="billingEmail">Email:</label>
+    <input type="email" id="billingEmail" name="billingEmail" placeholder="Enter email" required>
+
+    <h2>Payment Method</h2>
+    <label for="payment-method">Select Payment Type:</label>
+    <select id="payment-method" name="payment-method" required>
+        <option value="" selected disabled>Select payment method</option>
+        <option value="credit-debit-card">Credit/Debit Card</option>
+    </select>
+
+    <div id="card-info" style="display: none;">
+        <h3>Card Information</h3>
+        <label for="card-number">Card Number:</label>
+        <input type="text" id="card-number" name="card-number" placeholder="Enter card number">
+
+        <label for="expiration-date">Expiration Date:</label>
+        <input type="text" id="expiration-date" name="expiration-date" placeholder="MM/YY">
+
+        <label for="cvv">Security Code (CVV):</label>
+        <input type="text" id="cvv" name="cvv" placeholder="Enter CVV">
+    </div>
+
+    <button type="submit" class="place-order-btn">Place Order</button>
+</form>
+
+<script src="script.js"></script>
+
+</body>
+</html>
+
+

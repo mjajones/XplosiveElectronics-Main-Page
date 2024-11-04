@@ -1,0 +1,156 @@
+/* Styles for Cart Page */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+.container {
+    width: 90%;
+    margin: 0 auto;
+    padding-top: 20px;
+}
+
+h1 {
+    text-align: left;
+    color: #333;
+}
+
+/* Styles for cart items */
+.cart-item {
+    display: flex;
+    justify-content: space-between;
+    background-color: white;
+    margin-bottom: 10px;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.cart-item img {
+    width: 150px;
+    height: auto;
+    object-fit: contain;
+}
+
+.cart-item-details {
+    flex-grow: 1;
+    margin-left: 20px;
+}
+
+.cart-item-price {
+    font-size: 16px;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+.cart-item-remove {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Styles for the remove button */
+button.remove-btn {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 10px 20px; 
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 14px; 
+    width: auto; 
+}
+
+button.remove-btn:hover {
+    background-color: #0056b3;
+}
+
+/* Styles for cart total section */
+.cart-total {
+    margin-top: 20px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.cart-total p {
+    margin: 5px 0;
+}
+
+.back-home {
+    margin-top: 20px;
+}
+
+.back-home a {
+    text-decoration: none;
+    color: #007bff;
+}
+
+.back-home a:hover {
+    color: #0056b3;
+}
+
+/* Billing and Payment Form Styles */
+.billing-address {
+    margin-top: 30px;
+    background-color: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.billing-address h2 {
+    margin-bottom: 10px;
+    font-size: 24px;
+}
+
+.billing-address label {
+    font-size: 16px;
+    display: block;
+    margin-bottom: 5px;
+}
+
+.billing-address input,
+.billing-address select {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 14px;
+}
+
+button.place-order-btn {
+    background-color: #007bff;
+    color: white;
+    padding: 15px;
+    width: 100%;
+    border: none;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 4px;
+}
+
+button.place-order-btn:hover {
+    background-color: #0056b3;
+}
+
+.payment-method {
+    margin-top: 30px;
+}
+
+.payment-method label {
+    font-size: 16px;
+    display: block;
+    margin-bottom: 5px;
+}
+
+.payment-method select {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 14px;
+}

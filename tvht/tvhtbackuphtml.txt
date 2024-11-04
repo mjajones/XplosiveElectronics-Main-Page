@@ -1,0 +1,326 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Soundbars</title>
+    <link rel="stylesheet" href="../style.css"> </head>
+<body>
+
+  <a href="../index.html"> 
+    <button>Home</button>
+  </a>
+
+  <div class="product-grid">
+
+    <div class="product">
+        <img src="sbarpics/bosesmartultra.jpg" alt="Bose Smart Ultra Soundbar with Dolby Atmos">
+        <div class="description">Bose Smart Ultra Soundbar with Dolby Atmos</div>
+        <div class="price">$749.99</div>
+    </div>
+
+    <div class="product">
+        <img src="sbarpics/samsung31.jpg" alt="Samsung 3.1 Channel Soundbar with Wireless Subwoofer">
+        <div class="description">Samsung 3.1 Channel Soundbar with Wireless Subwoofer</div>
+        <div class="price">$249.99</div>
+    </div>
+
+    <div class="product">
+        <img src="sbarpics/jbl71.jpg" alt="JBL Bar 1000 7.1 4-channel soundbar with Dolby Atmos">
+        <div class="description">JBL Bar 1000 7.1 4-channel soundbar with Dolby Atmos</div>
+        <div class="price">$999.99</div>
+    </div>
+
+    <div class="product">
+        <img src="/sbarpics/lg51.jpg" alt="LG 5.1 Channel Soundbar with Subwoofer">
+        <div class="description">LG 5.1 Channel Soundbar with Subwoofer</div>
+        <div class="price">$249.99</div>
+    </div>
+
+    <div class="product">
+        <img src="sbarpics/Sony_bravia.jpg" alt="Sony Bravia Theater Bar with 11 speakers">
+        <div class="description">Sony Bravia Theater Bar with 11 speakers</div>
+        <div class="price">$699.99</div>
+    </div>
+
+    <div class="product">
+        <img src="sbarpics/hisense.jpg" alt="Hisense 3.1.2 Dolby Atmos Soundbar">
+        <div class="description">Hisense 3.1.2 Dolby Atmos Soundbar</div>
+        <div class="price">$229.99</div>
+    </div>
+
+    <div class="product">
+        <img src="sbarpics/jblbar500.jpg" alt="JBL - BAR 500 5.1ch Soundbar with Multibeam and Dolby Atmos - Black">
+        <div class="description">JBL - BAR 500 5.1ch Soundbar with Multibeam and Dolby Atmos - Black</div>
+        <div class="price">$399.99</div>
+    </div>
+
+    <div class="product">
+        <img src="sbarpics/sonosarc.jpg" alt="Sonos - Arc Soundbar with Dolby Atmos, Google Assistant and Amazon Alexa - Black">
+        <div class="description">Sonos - Arc Soundbar with Dolby Atmos, Google Assistant and Amazon Alexa - Black</div>
+        <div class="price">$899.99</div>
+    </div>
+
+    <div class="product">
+        <img src="sbarpics/sonosarc.jpg" alt="Sonos - Arc Soundbar 5.1 Soundbar"> 
+        <div class="description">Sonos - Arc Soundbar 5.1 Soundbar</div>
+        <div class="price">$219.99</div>
+    </div>
+
+    <div class="product">
+        <img src="sbarpics/vizio20.jpg" alt="VIZIO 2.0 Soundbar w/ Dolby Atmos, DTS:X - Black">
+        <div class="description">VIZIO 2.0 Soundbar w/ Dolby Atmos, DTS:X - Black</div>
+        <div class="price">$89.99</div>
+    </div>
+
+    <div class="product">
+        <img src="sbarpics/vizio21.jpg" alt="VIZIO 2.1 Soundbar, Wireless Subwoofer w/ Dolby Atmos, DTS:X - Black">
+        <div class="description">VIZIO 2.1 Soundbar, Wireless Subwoofer w/ Dolby Atmos, DTS:X - Black</div>
+        <div class="price">$149.99</div>
+    </div>
+
+</div> 
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Streaming Devices</title>
+    <link rel="stylesheet" href="../style.css"> </head>
+<body>
+
+  <a href="../index.html"> 
+    <button>Home</button>
+  </a>
+
+  <div class="product-grid">
+
+    <div class="product">
+        <img src="sdpics/chromecast4k.jpg" alt="Chromecast with Google TV (4K)">
+        <div class="description">Chromecast with Google TV (4K)</div>
+        <div class="price">$49.99</div>
+    </div>
+
+    <div class="product">
+        <img src="sdpics/amazonfiretvstick.jpg" alt="Amazon Fire TV Stick 4K">
+        <div class="description">Amazon Fire TV Stick 4K</div>
+        <div class="price">$39.99</div>
+    </div>
+
+    <div class="product">
+        <img src="sdpics/apple4k64.jpg" alt="Apple 4K 64GB">
+        <div class="description">Apple 4K 64GB</div>
+        <div class="price">$129.99</div>
+    </div>
+
+    <div class="product">
+        <img src="sdpics/rokustick4k.jpg" alt="Roku Streaming Stick 4K">
+        <div class="description">Roku Streaming Stick 4K</div>
+        <div class="price">$34.99</div>
+    </div>
+
+    <div class="product">
+        <img src="sdpics/rokuultra.jpg" alt="Roku Ultra -4K Dolby Vision and Voice Remote">
+        <div class="description">Roku Ultra -4K Dolby Vision and Voice Remote</div>
+        <div class="price">$89.99</div>
+    </div>
+
+    <div class="product">
+        <img src="sdpics/rokuexpress.jpg" alt="Roku Express 4K+">
+        <div class="description">Roku Express 4K+ | Streaming Player HD/4K/HDR with Roku Voice Remote with TV Controls, includes Premium HDMI Cable - Black</div>
+        <div class="price">$39.99</div>
+    </div>
+
+    <div class="product">
+        <img src="sdpics/tabloth.jpg" alt="Tablo - 4th Gen, 4-Tuner, 128GB Over-The-Air DVR & Streaming Player">
+        <div class="description">Tablo - 4th Gen, 4-Tuner, 128GB Over-The-Air DVR & Streaming Player - White</div>
+        <div class="price">$139.99</div>
+    </div>
+
+    <div class="product">
+        <img src="sdpics/applesiriremote.jpg" alt="Apple - Siri Remote (3rd Generation)">
+        <div class="description">Apple - Siri Remote (3rd Generation) (Latest Model) - Silver</div>
+        <div class="price">$59.99</div>
+    </div>
+
+    <div class="product">
+        <img src="sdpics/amazonfire.jpg" alt="Amazon Fire TV Cube with 4K Ultra HD">
+        <div class="description">Amazon Fire TV Cube with 4K Ultra HD</div>
+        <div class="price">$109.99</div>
+    </div>
+
+</div> 
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Televisions</title>
+    <link rel="stylesheet" href="../style.css"> </head>
+<body>
+
+  <a href="../index.html"> 
+    <button>Home</button>
+  </a>
+
+  <div class="product-grid">
+
+    <div class="product">
+        <img src="tvpics/insignia55.jpg" alt="Insignia 55 inch QLED 8K TV">
+        <div class="description">Insignia 55 inch QLED 8K TV</div>
+        <div class="price">$629.99</div>
+    </div>
+
+    <div class="product">
+        <img src="tvpics/samsung_8k.jpg" alt="Samsung 75 inch QLED 8K TV">
+        <div class="description">Samsung 75 inch QLED 8K TV</div>
+        <div class="price">$1,999.99</div>
+    </div>
+
+    <div class="product">
+        <img src="tvpics/insignia32.jpg" alt="Insignia 32 inch LED HD Smart TV">
+        <div class="description">Insignia 32 inch LED HD Smart TV</div>
+        <div class="price">$74.99</div>
+    </div>
+
+    <div class="product">
+        <img src="tvpics/samsung_65_inch.jpg" alt="Samsung 65 inch 4K Smart TV">
+        <div class="description">Samsung 65 inch 4K Smart TV</div>
+        <div class="price">$1,699.99</div>
+    </div>
+
+    <div class="product">
+        <img src="tvpics/LG_OLED.jpg" alt="LG 48 inch OLED 4K Smart TV">
+        <div class="description">LG 48 inch OLED 4K Smart TV</div>
+        <div class="price">$749.99</div>
+    </div>
+
+    <div class="product">
+        <img src="tvpics/samsung98.jpg" alt="Samsung 98 Class DU9000 Series Crystal UHD Smart Tizen TV (2024)">
+        <div class="description">Samsung - 98" Class DU9000 Series Crystal UHD Smart Tizen TV (2024)</div>
+        <div class="price">$3,499.99</div>
+    </div>
+
+    <div class="product">
+        <img src="tvpics/lg75qned.jpg" alt="LG 75 Class C3 Series QNED 4K UHD Smart webOS TV (2024)">
+        <div class="description">LG- 75" Class C3 Series QNED 4K UHD Smart webOS TV (2024)</div>
+        <div class="price">$1,499.99</div>
+    </div>
+
+    <div class="product">
+        <img src="tvpics/toshiba75.jpg" alt="Toshiba 75 Class C350 Series LED 4K UHD Smart Fire TV">
+        <div class="description">Toshiba -75" Class C350 Series LED 4K UHD Smart Fire TV</div>
+        <div class="price">$499.99</div>
+    </div>
+
+    <div class="product">
+        <img src="tvpics/samsung984k.jpg" alt="Samsung 98 Class Q80C QLED 4K UHD Smart Tizen TV (2023)">
+        <div class="description">Samsung - 98" Class Q80C QLED 4K UHD Smart Tizen TV (2023)</div>
+        <div class="price">$4,999.99</div>
+    </div>
+
+    <div class="product">
+        <img src="tvpics/samsung65oled.jpg" alt="Samsung 65 Class S85D Series OLED 4K Smart Tizen TV (2024)">
+        <div class="description">Samsung - 65" Class S85D Series OLED 4K Smart Tizen TV (2024)</div>
+        <div class="price">$1,499.99</div>
+    </div>
+
+    <div class="product">
+        <img src="tvpics/samsung55.jpg" alt="Samsung 55 Class DU7200 Series Crystal UHD 4K Smart Tizen TV (2024)">
+        <div class="description">Samsung - 55" Class DU7200 Series Crystal UHD 4K Smart Tizen TV (2024)</div>
+        <div class="price">$379.99</div>
+    </div>
+
+    <div class="product">
+        <img src="tvpics/lg55oled.jpg" alt="LG 55 Class C4 Series OLED evo 4K UHD Smart webOS TV (2024)">
+        <div class="description">LG- 55" Class C4 Series OLED evo 4K UHD Smart webOS TV (2024)</div>
+        <div class="price">$1,399.99</div>
+    </div>
+
+    <div class="product">
+        <img src="tvpics/hisense55.jpg" alt="Hisense 55 Class A6 Series LED 4K UHD Smart Google TV (2024)">
+        <div class="description">Hisense - 55" Class A6 Series LED 4K UHD Smart Google TV (2024)</div>
+        <div class="price">$249.99</div>
+    </div>
+
+    <div class="product">
+        <img src="tvpics/tcl1154k.jpg" alt="TCL 115 Class QM8-Series 4K UHD HDR QD-Mini LED Smart Google TV (2024)">
+        <div class="description">TCL- 115" Class QM8-Series 4K UHD HDR QD-Mini LED Smart Google TV (2024)</div>
+        <div class="price">$19,999.99</div>
+    </div>
+
+    <div class="product">
+        <img src="tvpics/sony43bravia.jpg" alt="Sony 43 Class BRAVIA 3 LED 4K UHD Smart Google TV (2024)">
+        <div class="description">Sony - 43" Class BRAVIA 3 LED 4K UHD Smart Google TV (2024)</div>
+        <div class="price">$199.99</div>
+    </div>
+
+    <div class="product">
+        <img src="tvpics/sony75bravia.jpg" alt="Sony 75 Class BRAVIA 3 LED 4K UHD Smart Google TV (2024)">
+        <div class="description">Sony - 75" Class BRAVIA 3 LED 4K UHD Smart Google TV (2024)</div>
+        <div class="price">$499.99</div>
+    </div>
+
+    <div class="product">
+        <img src="tvpics/sony55bravia.jpg" alt="Sony 55 Class BRAVIA 3 LED 4K UHD Smart Google TV (2024)">
+        <div class="description">Sony - 55" Class BRAVIA 3 LED 4K UHD Smart Google TV (2024)</div>
+        <div class="price">$699.99</div>
+    </div>
+
+</div> 
+
+</body>
+</html>

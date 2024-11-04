@@ -1,0 +1,28 @@
+{
+  "name": "dbmsproject",
+  "version": "1.0.0",
+  "description": "DBMS Project",
+  "main": "script.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mjajones/DBMS.git"
+  },
+  "keywords": [
+    "dbms"
+  ],
+  "author": "mjones",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mjajones/DBMS/issues"
+  },
+  "homepage": "https://github.com/mjajones/DBMS#readme",
+  "dependencies": {
+    "express": "^4.21.1",
+    "moment": "^2.30.1",
+    "mysql": "^2.18.1",
+    "mysql2": "^3.11.3"
+  }
+}

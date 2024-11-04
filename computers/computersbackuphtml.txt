@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Laptops & Desktops</title>
+    <link rel="stylesheet" href="../style.css">  </head>
+<body>
+
+  <a href="../index.html"> 
+    <button>Home</button>
+  </a>
+
+  <div class="product-grid">
+
+    <div class="product">
+        <img src="computerimages/inspiron15.jpg" alt="Dell Inspiron 15 Touch Screen Laptop">
+        <div class="description">Dell Inspiron 15 Touch Screen Laptop Intel Core i5 - 8GB - 512GB SSD</div>
+        <div class="price">$379.99</div>
+    </div>
+
+    <div class="product">
+        <img src="computerimages/air13.jpg" alt="Apple Macbook Air 13 inch Laptop">
+        <div class="description">Apple - MacBook Air 13-inch Laptop - M3 chip - 8GB Memory - 256GB SSD</div>
+        <div class="price">$899.00</div>
+    </div>
+
+    <div class="product">
+        <img src="computerimages/pro14.jpg" alt="Apple Macbook Pro 14 inch Laptop">
+        <div class="description">Apple - Macbook Pro 14" Laptop - M3 Pro Chip - 16GB Memory - 14 core GPU - 512GB SSD</div>
+        <div class="price">$1,499.00</div>
+    </div>
+
+    <div class="product">
+        <img src="computerimages/Lenovo Ideapad.jpg" alt="Lenovo Ideapad 11 15.6 FHD Touchscreen Laptop">
+        <div class="description">Lenovo Ideapad 11 15.6" FHD Touchscreen Laptop Intel Core i3 - 8GB Memory - Intel UHD Graphics - 256GB SSD</div>
+        <div class="price">$279.99</div>
+    </div>
+
+    <div class="product">
+        <img src="computerimages/acer.jpg" alt="Acer Chromebook 315">
+        <div class="description">Acer Chromebook 315 - 15.6" HD Display Laptop - Intel Celeron - 4GB LPDDR4 - 64GB eMMC</div>
+        <div class="price">$149.00</div>
+    </div>
+
+    <div class="product">
+        <img src="computerimages/envylaptop.jpg" alt="HP Envy 2-in-1 14 Wide Ultra XGA Touch Screen Laptop">
+        <div class="description">HP - Envy 2-in-1 14" Wide Ultra XGA Touch Screen Laptop - AMD Ryzen 7 - 16GB Memory - 1TB SSD</div>
+        <div class="price">$599.99</div>
+    </div>
+
+    <div class="product">
+        <img src="computerimages/galaxybook.jpg" alt="Samsung Galaxy Book4">
+        <div class="description">Samsung Galaxy Book4 - 15.6" FHD Laptop - Intel Core i7 - 16GB Memory - 512 GB SSD</div>
+        <div class="price">$549.99</div>
+    </div>
+
+    <div class="product">
+        <img src="computerimages/asuslaptop.jpg" alt="Asus 14 Laptop">
+        <div class="description">Asus 14" Laptop - Intel Celeron N4500 with 4GB Memory - 64GB eMMC</div>
+        <div class="price">$119.99</div>
+    </div>
+
+    <div class="product">
+        <img src="computerimages/envydesktop.jpg" alt="HP Envy Desktop">
+        <div class="description">HP Envy Desktop - Intel Core i7 - 32GB Memory - NVIDIA GeForce RTX4060 - 1TB SSD</div>
+        <div class="price">$1,439.99</div>
+    </div>
+
+    <div class="product">
+        <img src="computerimages/inspironaio.jpg" alt="Dell Inspiron 27 Touch All In One Desktop">
+        <div class="description">Dell Inspiron 27" Touch All In One Desktop - Intel Core i7 - 16GB Memory - 1TB SSD</div>
+        <div class="price">$1,399.99</div>
+    </div>
+
+    <div class="product">
+        <img src="computerimages/hpelitedesk.jpg" alt="HP EliteDesk 800 G4 Desktop">
+        <div class="description">HP EliteDesk 800 G4 Desktop - Intel Core i5 - 16GB Memory - 500GB SSD</div>
+        <div class="price">$369.99</div>
+    </div>
+
+    <div class="product">
+        <img src="computerimages/hpcorei3.jpg" alt="HP Desktop">
+        <div class="description">HP Desktop - Intel Core i3 - 8GB Memory - 256GB SSD</div>
+        <div class="price">$379.99</div>
+    </div>
+
+    <div class="product">
+        <img src="computerimages/cyberpower.jpg" alt="CyberPowerPC Gaming Desktop">
+        <div class="description">CyberPowerPC - Gaming Desktop - AMD Ryzen 5 5500 - 16GB Memory - AMD Radeon RX 6500 XT 4GB - 1TB SSD</div>
+        <div class="price">$649.99</div>
+    </div>
+
+    <div class="product">
+        <img src="computerimages/ibuypower.jpg" alt="iBUYPOWER Trace 7">
+        <div class="description">iBUYPOWER - Trace 7 - AMD Ryzen 7 5700 - 16GB DDR4 - GeForce RTX 4060 8GB - 1TB NVMe</div>
+        <div class="price">$789.99</div>
+    </div>
+
+    <div class="product">
+        <img src="computerimages/hp omen.jpg" alt="HP OMEN">
+        <div class="description">HP OMEN - AMD Ryzen 7 7700 - 16GB DDR5 Memory - GeForce RTX 4060 Ti - 1TB SSD</div>
+        <div class="price">$1,199.99</div>
+    </div>
+
+    <div class="product">
+        <img src="computerimages/alienware.jpg" alt="Alienware Aurora R16 Desktop">
+        <div class="description">Alienware - Aurora R16 Desktop - Intel Core i7 - NVIDIA GeForce RTX 4070 - 32GB Memory - 1TB SSD</div>
+        <div class="price">$1,799.99</div>
+    </div>
+
+</div> 
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Tablets</title>
+    <link rel="stylesheet" href="../style.css">  </head>
+<body>
+
+  <a href="../index.html"> 
+    <button>Home</button>
+  </a>
+
+  <div class="product-grid">
+    <div class="product">
+        <img src="tabletimages/apple102.jpg" alt="Apple - 10.2 inch iPad with Wi-Fi 64GB">
+        <div class="description">Apple - 10.2 inch iPad with Wi-Fi 64GB</div>
+        <div class="price">$199.99</div>
+    </div>
+
+    <div class="product">
+        <img src="tabletimages/apple129.jpg" alt="Apple - 12.9 inch iPad Pro M2 Wi-Fi">
+        <div class="description">Apple - 12.9 inch iPad Pro M2 Wi-Fi</div>
+        <div class="price">$1,299.00</div>
+    </div>
+
+    <div class="product">
+        <img src="tabletimages/apple11pro.jpg" alt="Apple 11 inch iPad Pro M4 chip Wi-Fi 512GB">
+        <div class="description">Apple 11 inch iPad Pro M4 chip Wi-Fi 512GB</div>
+        <div class="price">$1,099.00</div>
+    </div>
+
+    <div class="product">
+        <img src="tabletimages/ipadair.jpg" alt="Apple - 13 inch iPad Air M2 chip Wi-Fi 256GB">
+        <div class="description">Apple - 13 inch iPad Air M2 chip Wi-Fi 256GB</div>
+        <div class="price">$899.00</div>
+    </div>
+
+    <div class="product">
+        <img src="tabletimages/taba9.jpg" alt="Samsung Galaxy Tab A9 11 inch 64GB">
+        <div class="description">Samsung Galaxy Tab A9 11 inch 64GB</div>
+        <div class="price">$179.99</div>
+    </div>
+
+    <div class="product">
+        <img src="tabletimages/tab124.jpg" alt="Samsung Galaxy Tab 12.4 128GB Wi-Fi">
+        <div class="description">Samsung Galaxy Tab 12.4" 128GB Wi-Fi</div>
+        <div class="price">$489.99</div>
+    </div>
+
+    <div class="product">
+        <img src="tabletimages/tabs9ultra.jpg" alt="Samsung Galaxy Tab S9 Ultra - 14.6 256GB - Wi-Fi with S-Pen">
+        <div class="description">Samsung Galaxy Tab S9 Ultra - 14.6" 256GB - Wi-Fi with S-Pen</div>
+        <div class="price">$949.99</div>
+    </div>
+
+    <div class="product">
+        <img src="tabletimages/firehd10.jpg" alt="Amazon Fire HD 10-10.1 Tablet 32GB">
+        <div class="description">Amazon Fire HD 10-10.1" Tablet 32GB</div>
+        <div class="price">$89.99</div>
+    </div>
+
+    <div class="product">
+        <img src="tabletimages/firehd8.jpg" alt="Amazon - Fire HD 8-8 Tablet with Wi-Fi 32GB">
+        <div class="description">Amazon - Fire HD 8-8" Tablet with Wi-Fi 32GB</div>
+        <div class="price">$59.99</div>
+    </div>
+
+    <div class="product">
+        <img src="tabletimages/apple11pro.jpg" alt="Amazon - Fire Max 11tablet - 11 display - Octoa-Core Processor - 4GB RAM"> 
+        <div class="description">Amazon - Fire Max 11tablet - 11" display - Octoa-Core Processor - 4GB RAM</div>
+        <div class="price">$169.99</div>
+    </div>
+
+</div> 
+
+</body>
+</html>

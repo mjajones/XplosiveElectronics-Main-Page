@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Bluetooth Speakers</title>
+    <link rel="stylesheet" href="../style.css"> </head>
+<body>
+
+  <a href="../index.html"> 
+    <button>Home</button>
+  </a>
+
+  <div class="product-grid">
+
+    <div class="product">
+        <img src="btspeakerpics/jblpartybox.jpg" alt="JBL Partybox Speaker">
+        <div class="description">JBL Partybox Speaker</div>
+        <div class="price">$249.99</div>
+    </div>
+
+    <div class="product">
+        <img src="btspeakerpics/samsungsoundtower.jpg" alt="Samsung Sound Tower High Power Audio">
+        <div class="description">Samsung Sound Tower High Power Audio</div>
+        <div class="price">$549.99</div>
+    </div>
+
+    <div class="product">
+        <img src="btspeakerpics/jblwaterproof.jpg" alt="JBL Waterproof Speaker">
+        <div class="description">JBL Waterproof Speaker</div>
+        <div class="price">$99.99</div>
+    </div>
+
+    <div class="product">
+        <img src="btspeakerpics/bosesoundlin.jpg" alt="Bose SoundLink Bluetooth Speaker">
+        <div class="description">Bose SoundLink Bluetooth Speaker</div>
+        <div class="price">$149.99</div>
+    </div>
+
+    <div class="product">
+        <img src="btspeakerpics/sonyultfield.jpg" alt="Sony Ult Field 7 Wireless Speaker">
+        <div class="description">Sony Ult Field 7 Wireless Speaker</div>
+        <div class="price">$399.99</div>
+    </div>
+
+    <div class="product">
+        <img src="btspeakerpics/marshall.jpg" alt="Marshall - Emberton II Portable Bluetooth Speaker - Black/Brass">
+        <div class="description">Marshall - Emberton II Portable Bluetooth Speaker - Black/Brass</div>
+        <div class="price">$115.99</div>
+    </div>
+
+    <div class="product">
+        <img src="btspeakerpics/harmankardongoplay.jpg" alt="Harman Kardon - Go+Play Mini Portable Wireless Speaker - Black">
+        <div class="description">Harman Kardon - Go+Play Mini Portable Wireless Speaker - Black</div>
+        <div class="price">$399.99</div>
+    </div>
+
+    <div class="product">
+        <img src="btspeakerpics/jblextreme4.jpg" alt="JBL - Xtreme 4 Portable Bluetooth Speaker - Black">
+        <div class="description">JBL - Xtreme 4 Portable Bluetooth Speaker - Black</div>
+        <div class="price">$379.99</div>
+    </div>
+
+    <div class="product">
+        <img src="btspeakerpics/boserevolve.jpg" alt="Bose - SoundLink Revolve+ II Portable Bluetooth Speaker - Luxe Silver">
+        <div class="description">Bose - SoundLink Revolve+ II Portable Bluetooth Speaker - Luxe Silver</div>
+        <div class="price">$299.99</div>
+    </div>
+
+    <div class="product">
+        <img src="btspeakerpics/sonyxv900.jpg" alt="Sony - XV900 X-Series BLUETOOTH Party Speaker - Black">
+        <div class="description">Sony - XV900 X-Series BLUETOOTH Party Speaker - Black</div>
+        <div class="price">$899.99</div>
+    </div>
+
+    <div class="product">
+        <img src="btspeakerpics/jblflip.jpg" alt="JBL Flip 6 Portable Waterproof Speaker - Martin Garrix">
+        <div class="description">JBL Flip 6 Portable Waterproof Speaker - Martin Garrix</div>
+        <div class="price">$129.99</div>
+    </div>
+
+    <div class="product">
+        <img src="btspeakerpics/sonyxv800.jpg" alt="Sony XV800 Bluetooth Party Speaker">
+        <div class="description">Sony XV800 Bluetooth Party Speaker</div>
+        <div class="price">$549.99</div>
+    </div>
+
+</div> 
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Headphones</title>
+    <link rel="stylesheet" href="../style.css"> </head>
+<body>
+
+  <a href="../index.html"> 
+    <button>Home</button>
+  </a>
+
+  <div class="product-grid">
+    <div class="product">
+        <img src="hppics/bosequietcomfort.jpg" alt="Bose QuietComfort Wireless Noise Cancelling Headphones">
+        <div class="description">Bose QuietComfort Wireless Noise Cancelling Headphones</div>
+        <div class="price">$249.00</div>
+    </div>
+
+    <div class="product">
+        <img src="hppics/appleairprodpord.jpg" alt="Apple AirPods Pro">
+        <div class="description">Apple AirPods Pro</div>
+        <div class="price">$189.99</div>
+    </div>
+
+    <div class="product">
+        <img src="hppics/sonyheadphones.jpg" alt="Sony Wireless Noise Cancelling Headphones with bass boost">
+        <div class="description">Sony Wireless Noise Cancelling Headphones with bass boost</div>
+        <div class="price">$279.99</div>
+    </div>
+
+    <div class="product">
+        <img src="hppics/samsunggalaxybuds2.jpg" alt="Samsung Galaxy Buds2">
+        <div class="description">Samsung Galaxy Buds2</div>
+        <div class="price">$109.99</div>
+    </div>
+
+    <div class="product">
+        <img src="hppics/bosequietcomfort2.jpg" alt="Bose QuietComfort Noise Cancelling Earbuds">
+        <div class="description">Bose QuietComfort Noise Cancelling Earbuds</div>
+        <div class="price">$249.99</div>
+    </div>
+
+    <div class="product">
+        <img src="hppics/jabraelite10.jpg" alt="Jabra Elite 10 Earbuds">
+        <div class="description">Jabra Elite 10 Earbuds</div>
+        <div class="price">$229.99</div>
+    </div>
+
+    <div class="product">
+        <img src="hppics/sonywh720n.jpg" alt="Sony - WH7C20N Wireless Noise Cancelling Headphones - Black">
+        <div class="description">Sony - WH7C20N Wireless Noise Cancelling Headphones - Black</div>
+        <div class="price">$149.99</div>
+    </div>
+
+    <div class="product">
+        <img src="hppics/appleairpodsmax.jpg" alt="Apple - AirPods Max - Space Gray">
+        <div class="description">Apple - AirPods Max - Space Gray</div>
+        <div class="price">$529.99</div>
+    </div>
+
+    <div class="product">
+        <img src="hppics/airpodspro2.jpg" alt="Apple - AirPods Pro 2 - White">
+        <div class="description">Apple - AirPods Pro 2 - White</div>
+        <div class="price">$169.99</div>
+    </div>
+
+    <div class="product">
+        <img src="hppics/sennheisermomentum.jpg" alt="Sennheiser - Momentum 4 Wireless Adaptive Noise-Cancelling Over-The-Ear Headphones - Denim">
+        <div class="description">Sennheiser - Momentum 4 Wireless Adaptive Noise-Cancelling Over-The-Ear Headphones - Denim</div>
+        <div class="price">$399.99</div>
+    </div>
+
+    <div class="product">
+        <img src="hppics/sonywh1000xm4.jpg" alt="Sony - WH1000XM4 Wireless Noise-Cancelling Over-the-Ear Headphones - Black">
+        <div class="description">Sony - WH1000XM4 Wireless Noise-Cancelling Over-the-Ear Headphones - Black</div>
+        <div class="price">$299.99</div>
+    </div>
+
+    <div class="product">
+        <img src="hppics/beatspowerpro.jpg" alt="Beats - Powerbeats Pro Totally Wireless Earbuds - Black">
+        <div class="description">Beats - Powerbeats Pro Totally Wireless Earbuds - Black</div>
+        <div class="price">$199.99</div>
+    </div>
+
+    <div class="product">
+        <img src="hppics/beatssolo4.jpg" alt="Beats Solo 4 True Wireless Headphones">
+        <div class="description">Beats Solo 4 True Wireless Headphones</div>
+        <div class="price">$149.99</div>
+    </div>
+
+</div> 
+
+</body>
+</html>

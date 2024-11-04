@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Tablets</title>
+    <link rel="stylesheet" href="../style.css">
+</head>
+<body>
+
+    <div id="navbar"></div>
+
+    <script>
+        fetch('../navbar.html')
+            .then(response => response.text())
+            .then(data => {
+                document.getElementById('navbar').innerHTML = data;
+            })
+            .catch(error => console.error('Error loading navbar:', error));
+    </script>
+
+    <h1>Tablets</h1>
+
+    <div class="product-grid" id="products"></div>
+
+    
+    <button id="viewInventoryBtn">View Inventory</button>
+
+    
+    <select id="locationDropdown">
+        <option value="1">Madison</option>
+        <option value="2">Hattiesburg</option>
+        <option value="3">Gulfport</option>
+    </select>
+
+    <script>
+        fetch('/api/products?category=Tablet')
+            .then(response => response.json())
+            .then(data => {
+                const productsDiv = document.getElementById('products');
+                data.forEach(product => {
+                    const productDiv = document.createElement('div');
+                    productDiv.classList.add('product');
+
+                    productDiv.innerHTML = `
+                        <img src="${product.Image_URL}" alt="${product.Name}" style="width:150px; height:auto;">
+                        <h3>${product.Name}</h3>
+                        <p>${product.Description}</p>
+                        <p>Price: $${product.Price}</p>
+                        <p>Manufacturer: ${product.Manufacturer}</p>
+                        <div class="inventory-info" id="inventory-${product.Product_ID}">Click "View Inventory" to see stock</div>
+                        <button class="add-to-cart" data-id="${product.Product_ID}">Add to Cart</button>
+                    `;
+
+                    productsDiv.appendChild(productDiv);
+                });
+
+                // Add event listener to add to cart button
+                document.querySelectorAll('.add-to-cart').forEach(button => {
+                    button.addEventListener('click', function() {
+                        const productId = button.getAttribute('data-id');
+                        addToCart(productId);
+                    });
+                });
+            })
+            .catch(error => console.error('Error fetching products:', error));
+
+        document.getElementById('viewInventoryBtn').addEventListener('click', function () {
+            const locationId = document.getElementById('locationDropdown').value;
+
+            fetch(`/inventory/${locationId}`)
+                .then(response => response.json())
+                .then(data => {
+                    data.forEach(item => {
+                        const productInventory = document.getElementById(`inventory-${item.Product_ID}`);
+                        if (productInventory) {
+                            productInventory.textContent = `In Stock: ${item.Quantity}`;
+                        }
+                    });
+                })
+                .catch(error => console.error('Error fetching inventory:', error));
+        });
+
+        // Function to handle adding products to the cart
+        function addToCart(productId) {
+            let cart = JSON.parse(localStorage.getItem('cart')) || [];
+            cart.push(productId);
+            localStorage.setItem('cart', JSON.stringify(cart));
+            alert('Product added to cart!');
+        }
+    </script>
+
+</body>
+</html>
+
+
+
