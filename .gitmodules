@@ -4,3 +4,6 @@
 [submodule "submodules/CSlookuptool"]
 	path = submodules/CSlookuptool
 	url = https://github.com/mjajones/CSlookuptool
+[submodule "submodules/ReceiveInventoryTool"]
+	path = submodules/ReceiveInventoryTool
+	url = https://github.com/mjajones/ReceiveInventory
