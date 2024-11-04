@@ -1,3 +1,6 @@
 [submodule "submodules/CallCenterStaff"]
 	path = submodules/CallCenterStaff
 	url = https://github.com/mjajones/CallCenterStaff
+[submodule "submodules/CSlookuptool"]
+	path = submodules/CSlookuptool
+	url = https://github.com/mjajones/CSlookuptool
